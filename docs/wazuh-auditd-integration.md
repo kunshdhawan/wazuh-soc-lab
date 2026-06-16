@@ -64,3 +64,5 @@ After integration, Wazuh was able to collect additional audit-related telemetry,
 * Audit event fields (`data.audit.*`)
 
 This improved the visibility of privilege escalation and command execution activities within the SOC lab environment.
+
+![audidtd integration result](wazuh-auditd-integration.png)
